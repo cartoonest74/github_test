@@ -9,5 +9,5 @@
 * +
 * -
 * [naver](https://naver.com)
-* ![GD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vogue.co.kr%2F2020%2F03%2F05%2Fgdcc%2F&psig=AOvVaw3STBRW33uC7ElHLqAc0Wpg&ust=1664516087152000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCFmuOjufoCFQAAAAAdAAAAABAI)
+* ![GD](https://img.vogue.co.kr/vogue/2020/03/style_5e5e70a181d32-1200x751.jpg)
 
